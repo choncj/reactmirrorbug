@@ -10,11 +10,15 @@
   "dependencies": {
     "@babel/runtime": "^7.15.4",
     "@use-cookie-consent/react": "^0.3.6",
+    "autoprefixer": "^10.4.5",
     "meteor-node-stubs": "^1.2.1",
+    "postcss": "^8.4.13",
+    "postcss-load-config": "^3.1.4",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-mirror": "^0.1.6",
-    "react-router-dom": "^6.3.0"
+    "react-router-dom": "^6.3.0",
+    "tailwindcss": "^3.0.24"
   },
   "meteor": {
     "mainModule": {
